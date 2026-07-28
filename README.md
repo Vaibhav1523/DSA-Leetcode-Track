@@ -14,10 +14,10 @@
 
   <!-- SHIELDS BADGES -->
   <p align="center">
-    <a href="https://leetcode.com/Vaibhav1523"><img src="https://img.shields.io/badge/LeetCode-Vaibhav1523-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-    <a href="https://github.com/Vaibhav1523"><img src="https://img.shields.io/badge/GitHub-Vaibhav1523-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/vaibhav-verma-bb7960338/"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavverma9639@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavverma9639--gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://leetcode.com/u/vaibhav_8279/"><img src="https://img.shields.io/badge/LeetCode-vaibhav__8279-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"></a>
+    <a href="https://github.com/Vaibhav1523"><img src="https://img.shields.io/badge/GitHub-Vaibhav1523-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
+    <a href="https://www.linkedin.com/in/vaibhav-verma-bb7960338/"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavverma9639@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavverma9639--gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"></a>
   </p>
 
   <p align="center">
@@ -50,7 +50,7 @@
 
 ## 📊 Live LeetCode Progress Dashboard
 
-> 💡 *The stats below are pulled live directly from my LeetCode profile (`Vaibhav1523`). They update automatically as new solutions are submitted!*
+> 💡 *The stats below are pulled live directly from my LeetCode profile (`vaibhav_8279`). They update automatically as new solutions are submitted!*
 
 <div align="center">
 
@@ -320,6 +320,7 @@ This repository uses **[LeetSync](https://github.com/BaekNarak/LeetSync)** / **L
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-verma-bb7960338/)
   [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav1523-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav1523)
   [![Gmail](https://img.shields.io/badge/Email-vaibhavverma9639%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavverma9639@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-vaibhav__8279-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vaibhav_8279/)
 
   <br>
 
