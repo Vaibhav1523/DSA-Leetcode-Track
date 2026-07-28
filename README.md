@@ -16,8 +16,8 @@
   <p align="center">
     <a href="https://leetcode.com/Vaibhav1523"><img src="https://img.shields.io/badge/LeetCode-Vaibhav1523-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
     <a href="https://github.com/Vaibhav1523"><img src="https://img.shields.io/badge/GitHub-Vaibhav1523-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://linkedin.com/in/VaibhavVerma"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:vaibhavverma9639@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavverma9639-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/vaibhav-verma-bb7960338/"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavverma9639@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavverma9639--gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
   <p align="center">
@@ -58,10 +58,14 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://leetcode-stats-api.herokuapp.com/Vaibhav1523" alt="Live LeetCode Stats" width="100%"/>
+      <a href="https://github.com/Vaibhav1523">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhav1523&theme=tokyonight" width="100%" alt="GitHub Profile Stats"/>
+      </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav1523&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <a href="https://github.com/Vaibhav1523">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav1523&theme=tokyonight" width="100%" alt="Top Languages"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -313,9 +317,9 @@ This repository uses **[LeetSync](https://github.com/BaekNarak/LeetSync)** / **L
 
   ### 📬 Connect & Collaborate
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VaibhavVerma)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-verma-bb7960338/)
   [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav1523-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav1523)
-  [![Gmail](https://img.shields.io/badge/Email-vaibhavverma9639%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavverma9639@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-vaibhavverma9639%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavverma9639@gmail.com)
 
   <br>
 
